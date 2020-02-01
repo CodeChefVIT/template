@@ -1,4 +1,5 @@
-<a href="http://www.codechefvit.com/"><img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo-3.png" title="Codechef-Logo" alt="Codechef-VIT"></a>
+<p align="center"><a href="http://www.codechefvit.com/"><img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo-3.png" title="Codechef-Logo" alt="Codechef-VIT"></a>
+</p>
 
 # Repository Title
 
@@ -15,7 +16,10 @@
 </a>
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
-***INSERT ANOTHER GRAPHIC HERE***
+## Features
+- Insert list of features here
+
+***INSERT GRAPHIC HERE***
 
 [![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
 
@@ -60,9 +64,6 @@ let generateProject = project => {
 
 
 ---
-
-## Features
-- Insert list of features here
 
 ## Usage (Optional)
 
