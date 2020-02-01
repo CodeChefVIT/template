@@ -1,4 +1,4 @@
-<a href="http://www.codechefvit.com/"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F31820857%3Fs%3D280%26v%3D4&imgrefurl=https%3A%2F%2Fgithub.com%2FCodeChefVIT&docid=XcJjmaBmDNqT5M&tbnid=zkYym2UQlgIOzM%3A&vet=10ahUKEwjRu5jPkrHnAhUlg-YKHbq_BRYQMwhBKAEwAQ..i&w=280&h=280&client=ubuntu&bih=920&biw=1920&q=codechef-vit&ved=0ahUKEwjRu5jPkrHnAhUlg-YKHbq_BRYQMwhBKAEwAQ&iact=mrc&uact=8" title="Codechef-Logo" alt="Codechef-VIT"></a>
+<a href="http://www.codechefvit.com/"><img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo-3.png" title="Codechef-Logo" alt="Codechef-VIT"></a>
 
 # Repository Title
 
@@ -71,5 +71,5 @@ let generateProject = project => {
 - Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
 
 <p align="center">
-	With :heart: by <a href="http://www.codechefvit.com/index.html" target="_blank>Codechef-VIT</a>
+	With :heart: by <a href="http://www.codechefvit.com/index.html" target="_blank">Codechef-VIT</a>
 </p>
