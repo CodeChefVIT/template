@@ -7,14 +7,18 @@
 > ideally one sentence
 > include terms/tags that can be searched
 
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) 
 <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/badges/shields" />
 </a>
-<a href="https://github.com/badges/shields/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" />
+<a href="insert documentation link">
+	<img src="https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square"/>
+</a> 
+<a href="insert deployed project link">
+	<img src="https://img.shields.io/github/deployments/badges/shields/shields-staging?label=deployment"/>
 </a>
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
+
+
+
 
 ## Features
 - Insert list of features here
@@ -51,6 +55,7 @@ let generateProject = project => {
   for (let js = 0; js < project.length; js++) {
     code.push(js);
   }
+  
 };
 ```
 
@@ -67,8 +72,6 @@ let generateProject = project => {
 
 ## Usage (Optional)
 
-## Documentation (Optional)
-
 ---
 
 ## License
@@ -76,7 +79,6 @@ let generateProject = project => {
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
 
 <p align="center">
 	With :heart: by <a href="http://www.codechefvit.com/index.html" target="_blank">Codechef-VIT</a>
