@@ -79,7 +79,6 @@ let generateProject = project => {
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
 
 <p align="center">
 	With :heart: by <a href="http://www.codechefvit.com/index.html" target="_blank">Codechef-VIT</a>
