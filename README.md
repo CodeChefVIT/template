@@ -10,9 +10,11 @@
 <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/badges/shields" />
 </a>
-
 <a href="insert documentation link">
 	<img src="https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square"/>
+</a> 
+<a href="insert deployed project link">
+	<img src="https://img.shields.io/github/deployments/badges/shields/shields-staging?label=deployment"/>
 </a>
 
 
@@ -53,6 +55,7 @@ let generateProject = project =>
   for (let js = 0; js < project.length; js++) {
     code.push(js);
   }
+  
 };
 ```
 
