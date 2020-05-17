@@ -27,7 +27,7 @@
 ```
 $ git clone https://github.com/CodeChefVIT/<Project>
 $ cd <Project>
-$ pip3 install -r requiremnts.txt
+$ pip3 install -r requirements.txt
 $ python3 manage.py runserver
 ```
 
