@@ -22,9 +22,6 @@
 ## Screenshots
 <img src="https://github.com/akshatvg/common-entry-test/raw/master/static/img/header.png" alt="Project Screenshots">
 
-
----
-
 ## Instructions to run
 
 ```
@@ -34,22 +31,9 @@ $ pip3 install -r requiremnts.txt
 $ python3 manage.py runserver
 ```
 
----
-
-## Installation
-
-- Should contain requirements
-- All the `code` required to get started
-- Images of what it should look like
-
-
----
-
 ## Contributors
 - <a href="https://github.com/<Contributor>">Contributor Name</a>
 - <a href="https://github.com/<Contributor>">Contributor Name</a>
-
----
 
 ## License
 
