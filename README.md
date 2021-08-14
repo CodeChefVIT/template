@@ -29,7 +29,7 @@
 ```sh
 $ git clone https://github.com/CodeChefVIT/<Project>
 $ cd <Project>
-$ yarn install
+$ npm install
 ```
 #### Directions to Run
 ```sh
